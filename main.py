@@ -7,4 +7,4 @@ def ctof(c):
 celcius=int(input("° Celcius : "))
 print(ctof(celcius))
 #url -> https://facebook.com/itsayushprajapati
-#program ends here !
+#program ends here 
